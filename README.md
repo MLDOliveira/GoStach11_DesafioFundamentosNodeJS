@@ -76,14 +76,16 @@ yarn
 ---
 
 <h3 align="center">
-Autor: <a alt="Mateus Luis de Oliveira" href="https://github.com/MLDOliveira">Mateus Luis de Oliveira</a>
+Autor: <a alt="Mateus Oliveira" href="https://github.com/MLDOliveira">Mateus Luis de Oliveira</a>
 </h3>
 
 <p align="center">
 
-  <a alt="Mateus Luis de Oliveira Linkedin" href="https://www.linkedin.com/in/mldoliveira/">
-    <img src="https://img.shields.io/badge/LinkedIn-MLDOliveira-blue?logo=linkedin"/></a>
-  <a alt="João Victor Pereira Santos GitHub" href="https://github.com/MLDOliveira">
-  <img src="https://img.shields.io/badge/GitHub-MLDOliveira-lightgrey?logo=github"/></a>
+  <a alt="Mateus Oliveira Linkedin" href="https://www.linkedin.com/in/mldoliveira/">
+    <img src="https://img.shields.io/badge/LinkedIn-MLDOliveira-blue?logo=linkedin"/>
+  </a>
+  <a alt="Mateus Oliveira  GitHub" href="https://github.com/MLDOliveira">
+    <img src="https://img.shields.io/badge/GitHub-MLDOliveira-lightgrey?logo=github"/>
+  </a>
 
 </p>
